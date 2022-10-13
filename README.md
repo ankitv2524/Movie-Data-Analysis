@@ -1,5 +1,5 @@
 # <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Tableau-Movie-Data-Analysis-Dashboard**
-Superstore data set comes with Tableau. It contains information about products, sales, profits, and so on that you can use to identify key areas for improvement within this fictitious company.
+As we know that Movies Plays very Important Role to Improve our Society locality, our country and entire world. So here we Analyze the Movie data sets which contains the record from 1916 to 2016.
 <br>
 <br>
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
@@ -73,7 +73,7 @@ The data below is an example of properly formatted data.
      Then Johnny is in top and then Harrison Ford and So on..
      and another things we come to known that some of the actor earning is very less but they are very famous.
      
-   <b> As we know that Movies Plays very Important Role to Improve our Society locality, our country and entire world. From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
+   <b>From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
 
      
      
