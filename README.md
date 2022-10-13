@@ -3,7 +3,7 @@ Superstore data set comes with Tableau. It contains information about products, 
 <br>
 <br>
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+<img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     o	KPI’s :-
                 o Average Duration 
