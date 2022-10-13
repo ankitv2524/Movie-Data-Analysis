@@ -8,7 +8,7 @@ Here Basically we analysis the data by-
 Link for this Movie Data Analysis: https://public.tableau.com/views/Project_Dashboardk/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-# <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Tableau-Sample-Superstore-Dashboard**
+# <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Tableau-Movie-Data-Analysis-Dashboard**
 Superstore data set comes with Tableau. It contains information about products, sales, profits, and so on that you can use to identify key areas for improvement within this fictitious company.
 <br>
 <br>
