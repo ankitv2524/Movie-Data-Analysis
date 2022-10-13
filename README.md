@@ -64,13 +64,13 @@ The data below is an example of properly formatted data.
        long duration movies also.
          
     • In 20th century, no of movies directed by director is very less - 1, 2 or upto maximum 
-      10 each year.The People attraction toward increases after 2000. and has the Highest no 
-      of movies is 260 in year 2009
+      10 each year.The People attraction toward Movies increases after 2000. and has the       
+      Highest no of movies is 260 in year 2009
       
      • Most of the People all around the Globe Likes Action Movies As we compare with other Genre and then Historical Movies.
      
      • If we check the Highest Paid Actor according to this data - 1916 to 2016 year. 
-     Then Johnny is in top and then Harrison Ford and So on..
+     Then Johnny dipp is in top and then Harrison Ford in second and So on..
      and another things we come to known that some of the actor earning is very less but they are very famous.
      
    <b>From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
