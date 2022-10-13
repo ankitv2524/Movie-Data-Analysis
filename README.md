@@ -16,18 +16,19 @@ Superstore data set comes with Tableau. It contains information about products, 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     o	KPI’s :-
-                o Sales 
-                o Orders 
-                o Profits
-                o Revenue
+                o Average Duration 
+                o Gross 
+                o Average IMDB Score
+                o Count of Movies
     
-    o	Segment wise sales 
+    o	Showing Relation Between Movie Duration and Gross using Scatter Plot. 
     
-    o	Sales comparison Current Year Vs previous Year 
+    o	Number of Movies Launched Each Year from 1916 to 2016 using line chart.  
     
-    o	Profit comparison Current Year Vs previous Year 
+    o	comparing the relation of Genre - by size with IMDB Score and and Color Intensity by Gross Revenue using heat and tree map.
     
-    o	Top 5 segment wise Sub-categories 
+    o	Each Actors and their sum of Earning from from all the movies they workin. by using Horizontal Bar Chart  
+    
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
 ![tableau-dashboard](https://user-images.githubusercontent.com/106439762/178797660-533dac49-4eef-42c3-b7bc-4fc935192582.svg)
@@ -37,19 +38,19 @@ Must begin with every sheet of tableau then in last come to sheet which present 
     1.Every sheet of tableau present different stats.
     2.Each column of dataset holds the value for a particular category.
 The data below is an example of properly formatted data.
-![Screenshot 2022-08-15 at 2 12 34 PM](https://user-images.githubusercontent.com/107293486/184603629-26540595-ebd5-4541-a4ed-3fe0dd129973.png)
+![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
 
    
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
-![Screenshot 2022-08-15 at 2 16 47 PM](https://user-images.githubusercontent.com/107293486/184604271-ab7ca0d2-d406-4133-88f3-a968ba3f74ed.png)
+![Screenshot 2022-08-15 at 2 16 47 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/Movie_Dashboard.png)
 
-## :woman: About Me
+## :man: About Me
 I'm an aspiring Data Analyst...
 
 
 ## 🔗 Links
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-singh10/)
+[![Project_Link](https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png)](https://public.tableau.com/views/Project_Dashboard_16567384092800/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ## 🛠 Skills
