@@ -1,13 +1,3 @@
-# Movie-Data-Analysis
-Here Basically we analysis the data by-
-1.Movies by Duration and Gross Revenue
-2.No of movies Each year
-3.Genre by Revenue( A treee Map analysis)
-4.Favourite Actor with respect to their total Earnings.
-
-Link for this Movie Data Analysis: https://public.tableau.com/views/Project_Dashboardk/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
-
 # <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Tableau-Movie-Data-Analysis-Dashboard**
 Superstore data set comes with Tableau. It contains information about products, sales, profits, and so on that you can use to identify key areas for improvement within this fictitious company.
 <br>
@@ -35,7 +25,7 @@ Superstore data set comes with Tableau. It contains information about products, 
 <br>
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
 Must begin with every sheet of tableau then in last come to sheet which present the dashboard:
-    1.Every sheet of tableau present different stats.
+    1.Every sheet of tableau represent different things like count of movies each year, gross and Imdb relation etc. with different varities of Visualization Graph.
     2.Each column of dataset holds the value for a particular category.
 The data below is an example of properly formatted data.
 ![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
@@ -44,21 +34,58 @@ The data below is an example of properly formatted data.
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
 ![Screenshot 2022-08-15 at 2 16 47 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/Movie_Dashboard.png)
 
-## :man: About Me
-I'm an aspiring Data Analyst...
+## :man: About This Project
+<b> Here Basically we analysis the data by- </b>
+
+1. Movies by Duration and Gross Revenue
+2. No of movies Each year
+3. Genre by Revenue( A treee Map analysis)
+4. Favourite Actor with respect to their total Earnings
 
 
-## 🔗 Links
-##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
+<!-- ## 🔗Links -->
+##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Project Link
+
+<b>To check the Actual Project Please Click on the Tableau Icon Below</b>
+
 [![Project_Link](https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png)](https://public.tableau.com/views/Project_Dashboard_16567384092800/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-## 🛠 Skills
-    •	Structured Query Language (SQL)
-    •	Python
-    •	Excel
-    •	Tableau
-    •	Python
-    •	Analytical Visualisation
-    •	PowerPoint
-    •	MS Word
+## 🛠 Skills Learn From this Project
+    • Data Gathering, Cleaning and Filtering.
+    • Data Visualization.
+    • Analysizing Trend by closely watching the actual Data.
+    
+## ⛳ Conclusion 
+   <b> After Analyzing the above data we come to conclusion that:  </b>
+   
+    •  when Duration of Movies Increases then the Revenue also increases. 
+       It means people attraction towards movies is increased. People prefer 
+       long duration movies also.
+         
+    • In 20th century, no of movies directed by director is very less - 1, 2 or upto maximum 
+      10 each year.The People attraction toward increases after 2000. and has the Highest no 
+      of movies is 260 in year 2009
+      
+     • Most of the People all around the Globe Likes Action Movies As we compare with other Genre and then Historical Movies.
+     
+     • If we check the Highest Paid Actor according to this data - 1916 to 2016 year. 
+     Then Johnny is in top and then Harrison Ford and So on..
+     and another things we come to known that some of the actor earning is very less but they are very famous.
+     
+   <b> As we know that Movies Plays very Important Role to Improve our Society locality, our country and entire world. From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
+
+     
+     
+     
+     
+     
+         
+       
+    
+    
+     
+    
+    
+    
+    
