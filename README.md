@@ -1,4 +1,3 @@
-![Dashboard](https://user-images.githubusercontent.com/32640079/219290871-b3004146-fd72-44d3-ad78-dac83fae748c.png)
 # <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Tableau-Movie-Data-Analysis-Dashboard**
 As we know that Movies Plays very Important Role to Improve our Society locality, our country and entire world. So here we Analyze the Movie data sets which contains the record from 1916 to 2016.
 <br>
@@ -18,7 +17,7 @@ As we know that Movies Plays very Important Role to Improve our Society locality
     
     o	comparing the relation of Genre - by size with IMDB Score and and Color Intensity by Gross Revenue using heat and tree map.
     
-    o	Each Actors and their sum of Earning from from all the movies they workin. by using Horizontal Bar Chart  
+    o	Each Actors and their sum of Earning from from all the movies they workin. by using Horizontal Bar Chart. 
     
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
@@ -29,12 +28,20 @@ Must begin with every sheet of tableau then in last come to sheet which present 
     1.Every sheet of tableau represent different things like count of movies each year, gross and Imdb relation etc. with different varities of Visualization Graph.
     2.Each column of dataset holds the value for a particular category.
 The data below is an example of properly formatted data.
-![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
 
+![image](https://user-images.githubusercontent.com/32640079/219292343-76c01399-8abe-49eb-a0b1-4e76b6f32543.png)
+
+<!-- useless -->
+<!-- ![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
+ -->
    
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
-![Screenshot 2022-08-15 at 2 16 47 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/Movie_Dashboard.png)
+![Dashboard](https://user-images.githubusercontent.com/32640079/219290871-b3004146-fd72-44d3-ad78-dac83fae748c.png)
 
+<!-- useless -->
+<!-- ![Screenshot 2022-08-15 at 2 16 47 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/Movie_Dashboard.png)
+ -->
+ 
 ## :man: About This Project
 <b> Here Basically we analysis the data by- </b>
 
@@ -75,18 +82,3 @@ The data below is an example of properly formatted data.
      and another things we come to known that some of the actor earning is very less but they are very famous.
      
    <b>From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
-
-     
-     
-     
-     
-     
-         
-       
-    
-    
-     
-    
-    
-    
-    
