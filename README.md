@@ -83,3 +83,5 @@ The data below is an example of properly formatted data.
      and another things we come to known that some of the actor earning is very less but they are very famous.
      
    <b>From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
+   
+   ![image](https://user-images.githubusercontent.com/32640079/219319003-84b8b7be-b3ac-4c61-b4c6-7231028cbba6.png)
