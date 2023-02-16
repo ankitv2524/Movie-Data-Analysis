@@ -1,5 +1,18 @@
 # <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Tableau-Movie-Data-Analysis-Dashboard**
-As we know that Movies Plays very Important Role to Improve our Society locality, our country and entire world. So here we Analyze the Movie data sets which contains the record from 1916 to 2016.
+
+![image](https://user-images.githubusercontent.com/32640079/219321281-f15905cd-9949-4bf5-95bc-ade6673b6f6e.png)
+
+As we know that Movies Plays very Important Role to Improve our Society, locality, our country and entire world Mindset.A movie data analysis project involves gathering and analyzing data about movies, including their box office performance, critical reception, and audience ratings. This project could be used to gain insights into trends in the movie industry, identify factors that contribute to a movie's success or failure, and inform business decisions related to movie production, distribution, and marketing.
+
+To conduct this analysis, one could use a variety of data sources, such as online movie databases, social media platforms, and box office data providers. They would need to clean and preprocess the data, perform statistical analysis and visualization, and draw conclusions based on the results.
+
+Possible outcomes of this project could include identifying genres or themes that are popular among audiences, determining which factors are most predictive of box office success, or uncovering patterns in critical reception.
+
+So here we Analyze the Movie data sets which contains the record from 1916 to 2016.
+
+
+
+
 <br>
 <br>
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
