@@ -29,13 +29,14 @@ Must begin with every sheet of tableau then in last come to sheet which present 
     2.Each column of dataset holds the value for a particular category.
 The data below is an example of properly formatted data.
 
-![image](https://user-images.githubusercontent.com/32640079/219292343-76c01399-8abe-49eb-a0b1-4e76b6f32543.png)
+
 
 <!-- useless -->
 <!-- ![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
  -->
    
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
+![image](https://user-images.githubusercontent.com/32640079/219292343-76c01399-8abe-49eb-a0b1-4e76b6f32543.png)
 ![Dashboard](https://user-images.githubusercontent.com/32640079/219290871-b3004146-fd72-44d3-ad78-dac83fae748c.png)
 
 <!-- useless -->
